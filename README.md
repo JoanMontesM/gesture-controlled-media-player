@@ -111,18 +111,10 @@ Make sure the exported TensorFlow Lite model from Edge Impulse is correctly plac
 ---
 
 ## Author
+
 **Joan Montés Mora**
+
 Aalborg University
+
 Machine Learning for Media Experiences
 
-
-
-
-
-
-
-
-
-## How to RunJoan Montés Mora
-Aalborg University
-Machine Learning for Media Experiences
